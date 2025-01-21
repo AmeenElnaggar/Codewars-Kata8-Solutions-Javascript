@@ -25,4 +25,4 @@ function bmi(weight, height) {
   if (bmi <= 30.0) return 'Overweight';
   if (bmi > 30) return 'Obese';
 }
-console.log(bmi(80, 180));
+console.log(bmi(80, 180))
