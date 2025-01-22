@@ -23,4 +23,4 @@ const countSheep = function (num) {
   }
   return str;
 };
-countSheep(5);
+countSheep(5)
