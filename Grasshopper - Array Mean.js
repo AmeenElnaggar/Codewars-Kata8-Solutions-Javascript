@@ -21,4 +21,4 @@ const findAverage = function (nums) {
   return nums.reduce((acc, ele) => acc + ele) / nums.length;
 };
 
-console.log(findAverage([1, 2, 3]));
+console.log(findAverage([1, 2, 3]))
