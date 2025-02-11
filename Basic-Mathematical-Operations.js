@@ -7,7 +7,7 @@
 */
 
 /*
-  1) check the operation and transform it to real mathematical operation
+  1) check the operation and transform it to real mathematical operations
 */
 
 // Solution
