@@ -22,4 +22,4 @@ function abbrevName(name) {
     .map((ele) => ele.slice(0, 1).toUpperCase())
     .join(".");
 }
-abbrevName("ameen sayed");
+abbrevName("ameen sayed")
